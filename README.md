@@ -1,2 +1,2 @@
 # home-work
-class eork
+class work
