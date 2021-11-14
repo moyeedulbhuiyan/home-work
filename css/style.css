@@ -1,0 +1,31 @@
+
+.box{
+	color: orange;
+}
+.box{
+	color: orange;
+}
+.box{
+	color: orange;
+}
+.head1{
+	color: blue;
+}
+.box1{
+color: green;
+}
+.head1{
+	color: red;
+}
+.box2{
+	border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+.table, th, td {
+
+	border: 1px solid black;
+}
+.table, th, td{
+	border: 1px solid black;
+}
